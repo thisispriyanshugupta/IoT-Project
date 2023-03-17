@@ -19,11 +19,11 @@ Connect the positive wire of the water pump to a GPIO pin on the Raspberry Pi (e
 Connect the negative wire of the water pump to a GND pin on the Raspberry Pi
 Install the required Python libraries by running the following command:
 
-Copy code
+Code
 pip install gpiozero flask
 Clone or download the repository and run the following command to start the Flask web application:
 
-Copy code
+Code
 python app.py
 Access the web interface by navigating to http://localhost:5000 in your web browser.
 
