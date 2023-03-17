@@ -1,5 +1,4 @@
-# IoT-Project
-#Smart Irrigation System
+# IoT-Project: Smart Irrigation System
 The Smart Irrigation System is a project that uses a Raspberry Pi, a soil moisture sensor, and a water pump to automate the process of watering plants. The system continuously monitors the soil moisture level and turns the water pump on or off to keep the soil moist.
 
 Getting Started
